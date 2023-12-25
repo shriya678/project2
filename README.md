@@ -1,4 +1,4 @@
 # New Project
 
 This Project is created on local system.
-Created by Shriya Gupta
+Created by Shriya Gupta.
